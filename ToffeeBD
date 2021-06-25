@@ -4,6 +4,8 @@
 https://streamer-1.toffeelive.com/mobile_hls/somoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Jamuna TV (Not Working)
 https://streamer-1.toffeelive.com/mobile_hls/jamuna_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",ATN News (Not Working)
+https://streamer-1.toffeelive.com/mobile_hls/atnnews_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Independent TV
 https://streamer-1.toffeelive.com/mobile_hls/independent_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Desh TV 
@@ -12,6 +14,22 @@ https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f29
 https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",DBC News 
 https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Max HD 
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Max SD
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee Cinema SD
+https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee Cinema SD
+https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sports LIVE 1
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sports LIVE 2
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 
 
