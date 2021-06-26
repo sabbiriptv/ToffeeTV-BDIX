@@ -1,43 +1,164 @@
 #EXTM3U
 #SOURCEIT
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Sangsad TV
+https://streamer-1.toffeelive.com/mobile_hls/btv_sangshodh/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Somoy TV 
 https://streamer-1.toffeelive.com/mobile_hls/somoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Jamuna TV (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/jamuna_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",ATN News (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/atnnews_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Independent TV
-https://streamer-1.toffeelive.com/mobile_hls/independent_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/independent/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Desh TV 
 https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Ekattor TV 
 https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",DBC News 
 https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",News24 (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/news_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",RTV (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/rtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",News24
+https://streamer-1.toffeelive.com/mobile_hls/news24hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Channel24
+https://streamer-1.toffeelive.com/mobile_hls/channel_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",My TV
 https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Maasranga TV (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/maasranga/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Asian TV (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/asian_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Bangla TV (Not Working)
-https://streamer-1.toffeelive.com/mobile_hls/bangla_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Bangla TV
+https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Boishakhi TV
+https://streamer-1.toffeelive.com/mobile_hls/boishakhi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Bijoy TV
+https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Zee Bangla HD 
 https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Sony AATH 
 https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Colors Bangla HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Colors Bangla SD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",DD Bangla
+https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Ruposhi Bangla
+https://streamer-1.toffeelive.com/mobile_hls/ruposhi__bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Akash Aath
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Zee Cinema SD
+https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Max HD 
 https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Max SD
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee Cinema SD
-https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Max 2
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Colors
+https://streamer-1.toffeelive.com/mobile_hls/colors/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Colors HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Entertainment HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Entertainment SD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony SAB
+https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee TV HD
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee TV SD
+https://streamer-1.toffeelive.com/mobile_hls/Zee_TV/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Zee Action
+https://streamer-1.toffeelive.com/mobile_hls/zee_action/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",And TV
+https://streamer-1.toffeelive.com/mobile_hls/atv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Bflix Movies
+https://streamer-1.toffeelive.com/mobile_hls/bflix_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",A Plus
+https://streamer-1.toffeelive.com/mobile_hls/a_plus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",News24 india
+https://streamer-1.toffeelive.com/mobile_hls/news_24_india/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Pal
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Sony Wah
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Colors Infinity HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_infinity_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Indian-Hindi",Colors Rishtey
+https://streamer-1.toffeelive.com/mobile_hls/colors_rishtey/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",PTV World
+https://streamer-1.toffeelive.com/mobile_hls/ptv_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Geo News
+https://streamer-1.toffeelive.com/mobile_hls/geo_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",ARY News Asia
+https://streamer-1.toffeelive.com/mobile_hls/ary_news_asia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",ARY Digital Asia
+https://streamer-1.toffeelive.com/mobile_hls/ary_digital_asia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",ARY Family
+https://streamer-1.toffeelive.com/mobile_hls/ary_family/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",ARY Zindegi
+https://streamer-1.toffeelive.com/mobile_hls/ary_zindegi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Hum Masala
+https://streamer-1.toffeelive.com/mobile_hls/hum_masala/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Science
+https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Turbo
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",TLC HD
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",RTR Planet
+https://streamer-1.toffeelive.com/mobile_hls/rtr_planet/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Sony BBC Earth HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Sony BBC Earth
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Zing SD
+https://streamer-1.toffeelive.com/mobile_hls/zing_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Music",Ary Music
+https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Music",Dhoom Music
+https://streamer-1.toffeelive.com/mobile_hls/dhoom_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV
+https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Beats HD
+https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="English",Wion
+https://streamer-1.toffeelive.com/mobile_hls/wion_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Aljazeera SD
+https://streamer-1.toffeelive.com/mobile_hls/aljazeera/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",TV5MONDE ASIE
+https://streamer-1.toffeelive.com/mobile_hls/tv5_monde/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Russia Today
+https://streamer-1.toffeelive.com/mobile_hls/russia_today/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",DW
+https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Euro News
+https://streamer-1.toffeelive.com/mobile_hls/euro_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Arirang TV
+https://streamer-1.toffeelive.com/mobile_hls/arirang/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",NHK World Japan
+https://streamer-1.toffeelive.com/mobile_hls/nhk_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",CCTV4
+https://streamer-1.toffeelive.com/mobile_hls/cctv_4/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",CGTN
+https://streamer-1.toffeelive.com/mobile_hls/cgtn/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Lotus Macau
+https://streamer-1.toffeelive.com/mobile_hls/lotus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Rai Italia
+https://streamer-1.toffeelive.com/mobile_hls/rai_italia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",E24
+https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",Comedy Central HD
+https://streamer-1.toffeelive.com/mobile_hls/comedy_central_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English",VH1 HD
+https://streamer-1.toffeelive.com/mobile_hls/vh1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Islamic",Sunnah TV
+https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Islamic",Quran TV
+https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Islamic",Ary QTV
+https://streamer-1.toffeelive.com/mobile_hls/ary_qtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sports LIVE 1
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -56,10 +177,14 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a
 https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick
 https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Kids",Nick JR.
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony Yay
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Kids
 https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="Kids",Sonic
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 
 
