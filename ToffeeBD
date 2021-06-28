@@ -134,21 +134,21 @@ https://streamer-1.toffeelive.com/mobile_hls/aljazeera/5/04dfcf51f5f17bc7739a41f
 https://streamer-1.toffeelive.com/mobile_hls/tv5_monde/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="English",Russia Today
 https://streamer-1.toffeelive.com/mobile_hls/russia_today/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",DW
+#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="English",DW
 https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",Euro News
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s900-c-k-c0x00ffffff-no-rj" group-title="English",Euro News
 https://streamer-1.toffeelive.com/mobile_hls/euro_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",Arirang TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJ4HZSEOLozatNYI8UZlpyXdtmvd7GNF9bDwe7wA=s900-c-k-c0x00ffffff-no-rj" group-title="English",Arirang TV
 https://streamer-1.toffeelive.com/mobile_hls/arirang/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",NHK World Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="English",NHK World Japan
 https://streamer-1.toffeelive.com/mobile_hls/nhk_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",CCTV4
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/CCTV4.png" group-title="English",CCTV4
 https://streamer-1.toffeelive.com/mobile_hls/cctv_4/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="English",CGTN
 https://streamer-1.toffeelive.com/mobile_hls/cgtn/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",Lotus Macau
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="English",Lotus Macau
 https://streamer-1.toffeelive.com/mobile_hls/lotus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="English",Rai Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="English",Rai Italia
 https://streamer-1.toffeelive.com/mobile_hls/rai_italia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="English",E24
 https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
